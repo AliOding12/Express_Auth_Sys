@@ -16,3 +16,4 @@ module.exports = Router;
 // Router.get('/dashboard', validateSession, (req, res) => {
 //     res.sendFile(path.join(__dirname, 'views', 'dashboard.html'));
 // });// Add initial routes in routes.js
+// Add initial routes in routes.js
