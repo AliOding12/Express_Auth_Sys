@@ -1,0 +1,4 @@
+.env
+auth_audit.log
+bashscript.sh
+<!-- Initial commit: Set up project with README and .gitignore -->
