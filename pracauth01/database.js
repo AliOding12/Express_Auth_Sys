@@ -8,3 +8,4 @@ const pool = mysql.createPool({
 });
 
 module.exports = pool.promise();  // Use promises for cleaner async/await// Add database connection logic in database.js
+// Add database connection logic in database.js
