@@ -79,3 +79,4 @@ module.exports = {login,logout,dashboard};
 
 
 // Add auth controllers in controller.js
+// Add auth controllers in controller.js
