@@ -38,3 +38,4 @@ async function loginUser(req, res) {
 module.exports = {
     loginUser,
 };
+// Add login functionality in login.js
