@@ -29,3 +29,4 @@ const validateSession = async (req, res, next) => {
 module.exports = validateSession;
 // Add authentication middleware in middleware.js
 // Enhance middleware with rate limiting
+// Add authentication middleware in middleware.js
