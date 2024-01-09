@@ -35,3 +35,4 @@ async function registerUser(username, password, email) {
 module.exports = {
     registerUser,
 };
+// Add user registration logic in registration.js
