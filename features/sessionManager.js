@@ -34,3 +34,4 @@ module.exports = {
     getCurrentUser,
     destroySession,
 };
+// Add session management in sessionManager.js
