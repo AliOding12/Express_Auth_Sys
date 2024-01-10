@@ -24,3 +24,4 @@ module.exports = {
     hashPassword,
     comparePassword,
 };
+// Add password hashing in passwordHash.js
