@@ -38,3 +38,4 @@ module.exports = {
     verifyEmail,
 };
 // Add email verification in emailVerification.js
+// Add email verification in emailVerification.js
