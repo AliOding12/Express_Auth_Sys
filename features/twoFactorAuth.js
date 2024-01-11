@@ -40,3 +40,4 @@ module.exports = {
     generate2FACode,
     verify2FACode,
 };
+// Add two-factor authentication logic in twoFactorAuth.js
