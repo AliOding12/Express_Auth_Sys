@@ -37,3 +37,4 @@ module.exports = {
     generateVerificationToken,
     verifyEmail,
 };
+// Add email verification in emailVerification.js
