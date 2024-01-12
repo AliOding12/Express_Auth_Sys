@@ -29,3 +29,4 @@ function rateLimiter(req, res, next) {
 module.exports = {
     rateLimiter,
 };
+// Add rate limiting in rateLimiter.js
