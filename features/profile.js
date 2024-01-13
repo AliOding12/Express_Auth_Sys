@@ -29,3 +29,4 @@ module.exports = {
     getProfile,
     updateProfile,
 };
+// Add user profile management in profile.js
