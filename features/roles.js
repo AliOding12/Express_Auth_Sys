@@ -25,3 +25,4 @@ module.exports = {
     requireRole,
     getUserRole,
 };
+// Add role-based access control in roles.js
