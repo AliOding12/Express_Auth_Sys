@@ -22,3 +22,4 @@ function logoutUser(req, res) {
 module.exports = {
     logoutUser,
 };
+// Add logout functionality in logout.js
