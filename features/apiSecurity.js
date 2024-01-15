@@ -15,3 +15,4 @@ function requireAuth(req, res, next) {
 module.exports = {
     requireAuth,
 };
+// Add API security measures in apiSecurity.js
