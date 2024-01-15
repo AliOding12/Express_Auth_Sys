@@ -41,3 +41,4 @@ module.exports = {
     csrfProtection,
     sanitizeInput,
 };
+// Add general security utilities in security.js
