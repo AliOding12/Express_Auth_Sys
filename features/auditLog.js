@@ -23,3 +23,4 @@ function logEvent(eventType, username, details = '') {
 module.exports = {
     logEvent,
 };
+// Add audit logging in auditLog.js
