@@ -48,3 +48,4 @@ module.exports = {
     checkLockout,
     resetFailedAttempts,
 };
+// Add account lockout logic in accountLockout.js
