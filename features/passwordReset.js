@@ -47,3 +47,4 @@ module.exports = {
 };
 // Add password reset functionality in passwordReset.js
 // Add password reset functionality in passwordReset.js
+// Add secure token generation in passwordReset.js
