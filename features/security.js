@@ -42,3 +42,4 @@ module.exports = {
     sanitizeInput,
 };
 // Add general security utilities in security.js
+// Add CSRF protection in security.js
