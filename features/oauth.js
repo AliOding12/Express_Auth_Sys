@@ -25,3 +25,4 @@ module.exports = {
     facebookLogin,
 };
 // Add OAuth integration in oauth.js
+// Add Google OAuth support in oauth.js
