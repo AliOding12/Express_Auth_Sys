@@ -31,3 +31,4 @@ module.exports = validateSession;
 // Enhance middleware with rate limiting
 // Add authentication middleware in middleware.js
 // Enhance middleware with rate limiting
+// Add CSRF middleware in middleware.js
