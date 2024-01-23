@@ -24,3 +24,4 @@ module.exports = {
     logEvent,
 };
 // Add audit logging in auditLog.js
+// Optimize audit logging performance
