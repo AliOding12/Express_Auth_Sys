@@ -31,3 +31,4 @@ module.exports = {
 };
 // Add rate limiting in rateLimiter.js
 // Add rate limiting in rateLimiter.js
+// Add custom rate limit rules
