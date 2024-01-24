@@ -39,3 +39,4 @@ module.exports = {
 };
 // Add email verification in emailVerification.js
 // Add email verification in emailVerification.js
+// Add verification link expiration
