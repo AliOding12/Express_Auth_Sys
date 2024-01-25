@@ -69,3 +69,4 @@ db.query("SELECT 1").then(
     console.log(error);
 })// Add Express server setup in server.js and package.json
 // Add Express server setup in server.js and package.json
+// Add session cleanup cron job in server.js
