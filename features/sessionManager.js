@@ -36,3 +36,4 @@ module.exports = {
 };
 // Add session management in sessionManager.js
 // Add session management in sessionManager.js
+// Add session expiration logic
