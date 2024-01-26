@@ -99,3 +99,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 MIT
 <!-- Initial commit: Set up project with README and .gitignore -->
 <!-- Initial commit: Set up project with README and .gitignore -->
+<!-- Update README with setup instructions -->
