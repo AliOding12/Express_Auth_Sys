@@ -43,3 +43,4 @@ module.exports = {
 // Add two-factor authentication logic in twoFactorAuth.js
 // Add two-factor authentication logic in twoFactorAuth.js
 // Enhance 2FA with QR code support
+// Add 2FA recovery codes
